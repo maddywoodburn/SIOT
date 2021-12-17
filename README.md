@@ -1,5 +1,7 @@
 # SIOT
 
+*Sensing & IOT project investigating whether Strava Activities have any correlation with the outside environment.*
+
 **Dependencies:**
 JupyterDash 
 
